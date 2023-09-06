@@ -38,7 +38,7 @@ Give credit here.
 - This project was inspired by a project I viewed in Kaggle.
 
 ## Contact
-Created by [@Ramana1998] - feel free to contact me!
+Created by [ramananaremella@gmail.com] - feel free to contact me!
 
 
 <!-- Optional -->
